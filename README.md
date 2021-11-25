@@ -13,3 +13,4 @@ When ordering from JLCPCB, make sure you order this with a white PCB so that the
 
 You will also want to order the pins, personally I elected to [use magnets like these from Amazon](https://www.amazon.com/gp/product/B07RWRVL39/).
 
+<img src="images/happy_mac.png" width="32" height="38" />
