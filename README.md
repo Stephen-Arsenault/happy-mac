@@ -8,7 +8,7 @@ This little happy mac project is open source under a CC BY 4.0 license. You can 
  - [Gerbers](/gerbers/)
  - [Open Hardware](https://oshwlab.com/stephenarsenault/happy-mac) ([EasyEDA](https://easyeda.com/editor#id=602c9a76d2714835bba1bb6492230848))
 
-#Ordering
+# Ordering
 When ordering from JLCPCB, make sure you order this with a white PCB so that the silkscreen is black. You could use ENIG instead of HASL for a fancy gold colored pin.
 
 You will also want to order the pins, personally I elected to [use magnets like these from Amazon](https://www.amazon.com/gp/product/B07RWRVL39/).
